@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "greendale-iot-cloud",
+  "private_key_id": "2ee8315175d19d8dad0d19be904822ebfa835db4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIAADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC6nTEKFq5+Sx6F\n+K9aoER05/NonMCqqyGnYsvn+9xoGQ2WAZv23XxkfX+L9aUz2roes0nLm1VSKAOO\nBYLyIaFrkoSl/2pJduyxAu8ceGeQ+weupkAWpe2teoZz+qf5TeEGNWHvdce6O6gH\nJOVtsM0P0yObxiFQZZHvMLHrBcQ/DLEfAgh5JY9nESaCQhDeFWykEF+j1dyEfUzB\nQcXURJwpVmcX1V8C5KMo07F49uw6yXSU/56zd3xyo/cciy/z4bbeW6Pgf/a5cPYS\nH1+PK8BhMdqRJVu1psHYTBvBgXQ6glExjdJjst8XpnM2VXPLs+3ZM5lfc0+JRIw2\n1YUA1AyfAgMBAAECggEABi2/mp41b20/5ZJEoBAJZDa5cPL4g04aPA2oQ0lfOu64\nnyLB54XeB5rxVt17XedCkIZBwPHzyVevONitRSR6HaX8XV114L8FLdEzWiWq0pQo\nZQ7dG8LcegkOzzBzHYaHsLbVkMhwcS9mrCHh5/4mgMnuKZfnfd8Qp2ZDcpm+YMX8\nAayjo7HCE2dgP4N2SS6TLnsWjilNHCIWvMp5SzRXEFqWRqCnao5FOlZZ3IiH6kwH\ndCN2zX7L/J2bMntnv8pE7/iHAyLiExigOFKisl+ex6LWVfndmcuoYWevb5SoDeW/\nn9Z+qVQZoBmQf5pN0BS8ylVAYQ8mC9fTYI7JR65LeQKBgQDnwtenARg2ATI6Llcc\nc5M3gzpHHy6sGTW7HROGnJ4H2+K6dYoBZda8WIBn94/fY6OmiLhLgZdX3adVneX/\nIl9DiHpIX2nZJ95UNXmBlWjkB98k94JOTsVJtJhD7+tWxlDSs/mTwIH8+3yLkuBX\nYqyYYJedCG2pOqi4GUgXaGdr2QKBgQDOIZWM1WiDoG3JwvUQxdD2RmFjTGgJ/VkX\nknWE5csxCWh2hA2cZm6iL2f4Ah4BHzcPHdTkuaf/15wWjbv9+3jbDosVEGH8WTn+\nX9Upff0ZnrQslETNeWuBkf3/whjIetvW868z4w6OoQIESZHlTftx8VG6owgpc8Bd\nKQ9CGdNJNwKBgQDbFyRKagx7MRJMUfZjnRZ0igeTqHS0mHhk1I3a2T/Daiih3++A\ndsdS8c8hebR2l3jjO6gNKQrrM0y28Te1wsaPzvraY+hqMvhIXuzohVfNCWv3REvY\nvzpd/O1ce/fb5koNhbnP5VJ81zjbsROHSG6k9dsdxhP0wNEyiCPQjRAHsQKBgQCx\nrD8EglowwpJ/Sz0C9Q81h9qfxZcTrT0i1UnYgF3Q6aQSK6azvZL01tnN6r1ECEzk\nCbmcYO6O1qCizA5TUHOOlY2KXXGoGpyjRqUsu3zynVn95tsbJOJmb5k432uPOl7N\ne4PzvG2qwNtFKMjJlpr6TqA8uBPr7urLIf4V4r68pwKBgAV9kn0+T+H8Y/Y4GFup\n0acjs2in3bCYf9KsQiSNQc/pI+gNCYYdw+yrLFxPtOBIxWglgvsa2pfqqS89MG3i\nM0xeshqwiyhwrf4viCFXsZKh2u7jnZ2rRF7XkSFFPHdB1aKyCpggtV+8ni7B9mY4\ni6M+nUPreE7nwVcWW5UI4mxj\n-----END PRIVATE KEY-----\n",
+  "client_email": "super-admin@greendale-iot-cloud.iam.gserviceaccount.com",
+  "client_id": "111554649056965518557",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/super-admin%40greendale-iot-cloud.iam.gserviceaccount.com"
+}
